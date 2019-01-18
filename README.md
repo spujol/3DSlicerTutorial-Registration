@@ -11,7 +11,7 @@ Materials
 
 Overview
 ---------
-The tutorial shows how to co-registered case6_gre2 (moving) to case6_gre1 (fixed)
+The tutorial shows how to register case6_gre2 (moving) to case6_gre1 (fixed)
 * Step 1: Computation of a Rigid Affine transform (Xf1_Transform) 
 * Step 2: Computation of a B-Spline registration (Xf3_Transform) and generation of a transformed volume (case6_gre2_registered)
 
