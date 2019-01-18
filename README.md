@@ -1,7 +1,7 @@
 
 Slicer Registration Tutorial, Sonia Pujol, PhD
 --------------------------------------------------
-This tutorial shows how to register two datasets acquired on a brain tumor patient for resection assessment and follow-up.
+This video tutorial shows how to register two datasets acquired on a brain tumor patient for resection assessment and follow-up.
 The tutorial is based on case #37 of the [Slicer Registration Case Library](https://www.na-mic.org/wiki/Projects:RegistrationDocumentation:UseCaseInventory) developed by Dominik Meier, Ph.D.
 
 Materials
