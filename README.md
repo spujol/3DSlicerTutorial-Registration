@@ -10,10 +10,10 @@ Materials
 * Dataset: [Registration Case Library #37](https://www.na-mic.org/wiki/File:RegLib_C37_Data.zip)
 
 
-Rigid Affine Registration
+Step 1: Rigid Affine Registration
 --------------------------
 <iframe src="https://player.vimeo.com/video/312075616" width="640" height="423" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Non-Rigid Registration
+Step 2: Non-Rigid Registration
 --------------------------
 <iframe src="https://player.vimeo.com/video/312076458" width="640" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
