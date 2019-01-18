@@ -1,13 +1,13 @@
 
-Sonia Pujol, Ph.D. Assistant Professor of Radiology, Harvard Medical School
----------------------------------------------------------------------------
+Slicer Registration Tutorial, Sonia Pujol, PhD
+--------------------------------------------------
 This tutorial shows how to register two datasets acquired on a brain tumor patient for resection assessment and follow-up.
 The tutorial is based on the Slicer Registration Case Library #37 developed by Dominik Meier, Ph.D.
 
 Materials
 ---------
 * 3D Slicer release version 4.10 
-* Registration Case Library #37 
+* Dataset: [Registration Case Library #37](https://www.na-mic.org/wiki/Projects:RegistrationLibrary:RegLib_C37)
 
 
 Rigid Affine Registration
