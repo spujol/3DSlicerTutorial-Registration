@@ -6,7 +6,7 @@ The tutorial is based on case #37 of the [Slicer Registration Case Library](http
 
 Materials
 ---------
-* 3D Slicer release version 4.10 
+* Download: [3D Slicer release version 4.10](https://download.slicer.org/)
 * Dataset: [Registration Case Library #37](https://www.na-mic.org/wiki/File:RegLib_C37_Data.zip)
 
 
