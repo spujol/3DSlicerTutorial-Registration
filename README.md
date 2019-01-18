@@ -21,4 +21,4 @@ Step 1: Rigid Affine Registration
 
 Step 2: Non-Rigid Registration
 --------------------------
-<iframe src="https://player.vimeo.com/video/312076458" width="640" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/312155753" width="640" height="426" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
